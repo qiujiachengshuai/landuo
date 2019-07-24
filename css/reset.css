@@ -1,0 +1,29 @@
+a{
+	text-decoration: none;
+	color:#999;
+}
+a:focus{
+	color:red;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul ,li{
+	list-style: none;
+}
+
+body {
+	font-size: 0.4rem;
+	color: black;
+	overflow: hidden;
+	font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+}
+.lrs-bar i{
+	color:black;
+	font-size: 0.4rem;
+}
+
+
